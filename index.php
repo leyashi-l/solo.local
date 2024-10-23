@@ -59,7 +59,11 @@
         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
     </div>
 </div>
-<div class="container banner"></div>
+<div class="container banner">
+    <h3>Lorem Ipsum</h3>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+    <img src="img/Rectangle%204.png" alt="">
+</div>
 </div>
 </body>
 </html>
