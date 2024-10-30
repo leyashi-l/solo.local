@@ -406,6 +406,120 @@ header nav ul li.btn a:hover,
     background: #1F3B28;
 }
 
+/* Portfolio */
+
+.portfolio-info h1 {
+    text-align: center;
+    padding: 20px;
+    font-size: 33px;
+}
+
+.portfolio-info p {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.container-port p{
+    width: 65px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.portfolio-info .container-port {
+    background: #1C140F;
+    border-radius: 10px;
+    padding: 10px 20px;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 350px;
+}
+
+.hero-portfolio {
+    position: relative;
+}
+
+.hero-portfolio .info {
+    width: 500px;
+    padding: 250px 0;
+}
+
+.hero-portfolio .info h1 {
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+.hero-portfolio .info p {
+    padding: 20px 0;
+}
+
+.hero-portfolio .info .btn {
+    margin-top: 20px;
+    background: #FA8305;
+    color: white;
+    padding: 15px 30px;
+    border: 0;
+    transition: all 500ms ease;
+    font-size: 17px;
+}
+
+.hero-portfolio .info .btn:hover {
+    background: #a02604;
+    cursor: pointer;
+    scale: 1.1;
+}
+
+.hero-portfolio img {
+    position: absolute;
+    right: -20px;
+    top: 100px;
+    width: 50%;
+}
+
+.hero-portfolio2  {
+    position: relative;
+}
+.hero-portfolio2 .info2 {
+    width: 500px;
+    padding: 250px 0;
+    margin-left: 950px;
+}
+
+.hero-portfolio2 .info2 h1 {
+    margin-bottom: 15px;
+    font-size: 30px;
+    text-align: right;
+}
+
+.hero-portfolio2 .info2 p {
+    padding: 20px 0;
+    text-align: right;
+}
+
+.hero-portfolio2 .info2 .btn {
+    margin-top: 20px;
+    background: #FA8305;
+    color: white;
+    padding: 15px 30px;
+    border: 0;
+    transition: all 500ms ease;
+    font-size: 17px;
+}
+
+.hero-portfolio2 .info2 .btn:hover {
+    background: #a02604;
+    cursor: pointer;
+    scale: 1.1;
+}
+
+.hero-portfolio2 .img1 {
+    position: absolute;
+    left: 210px;
+    top: 100px;
+    width: 600px;
+    height: 600px;
+
 /* Contacts */
 
 .hero-contacts h1 {
